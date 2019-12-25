@@ -12,8 +12,6 @@ This tutorial will cover how to:
 * html5: data-attribute
 * css3: positioning, flexbox, perspective, backface-visibility, transitions
 
-![Memory Game](./memory-game.gif)
-
 
 
 
