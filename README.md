@@ -98,9 +98,3 @@ This tutorial will cover how to:
 
 
 
-
-
-
-
-
-HELP and SUPPORT : https://github.com/code-sketch/memory-game
